@@ -9,7 +9,7 @@ class StyleText extends StatelessWidget {
       child: Text(
         "Hello World!",
         style: TextStyle(
-          fontSize: 28,
+          fontSize: 27,
           color: Colors.white,
         ),
       ),
